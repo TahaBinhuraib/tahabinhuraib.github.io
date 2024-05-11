@@ -14,7 +14,7 @@ Previously, I was an active member of ITU Vision Lab, under the supervision of P
 
 ### Here's our poster walkthrough from the Re-Align workshop at ICLR 2024:
 
-{% include youtubePlayer.html id="bDCoqvxFYVY" %}
+<!-- {% include youtubePlayer.html id="bDCoqvxFYVY" %} -->
 
 News
 ======
