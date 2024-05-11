@@ -7,20 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent Computer Engineering graduate from Istanbul Technical University. I am currently working as a Machine Learning Engineer at Novus Technologies Inc. I work on NLP and Large Language Models with a focus on underrepresented languages. 
+I'm an incoming PhD student at Georgia Tech, I'll be fortunate to be advised by [https://anna-ivanova.net/](Anna (Anya) Ivanova)! I am currently working as a Machine Learning Engineer at Novus Technologies Inc. I work on NLP and Large Language Models with a focus on underrepresented languages. 
 
-Previously, I was an active member of ITU Vision Lab, under the supervision of Prof. Dr. Gözde Ünal. I worked on Computer Vision and its applications on climate sciences. I developed deep learning models for seasonal forecasting. I have also completed a research internship at Aalto University, Computational Behavior Lab with Prof. Dr. Antti Oulasvirta with a focus on color recommendation systems using Graph Neural Networks.
+Previously, I was an active member of ITU Vision Lab, under the supervision of Prof. Dr. Gözde Ünal. I worked on Computer Vision. During this collaboration, we focused on understanding whether the use of learned prototypes would guide the learning process in diffusion models. This led to the development of [](ProtoDiffusion: Classifier-Free Diffusion Guidance with Prototype Learning).
+
+
+### Here's our poster walkthrough from the Re-Align workshop at ICLR 2024:
+
+{% include youtubePlayer.html id="bDCoqvxFYVY" %}
 
 News
 ======
-- *03/2024*: Our paper [Calibrating Bayesian UNet++ for Sub-seasonal Forecasting](https://arxiv.org/abs/2403.16612) is accepted to Tackling Climate Change with Machine Learning workshop at ICLR2024! 
+- *04/2024*: Our paper [Topoformer: brain-like topographic organization in Transformer language models through spatial querying and reweighting](https://openreview.net/pdf?id=3pLMzgoZSA) is accepted to the Re-Align workshop at ICLR2024! 
 <br>
 
-- *08/2023*: I have attended to Climate Change AI Summer School 2023 at Mila, Quebec AI Institue at Montreal, Canada. We worked on using large language models to evaluate and compare sustainability reports of big companies.
-<br>
-
-- *06/2023*: I have started to an internship position at Aalto University, Computational Behavior Lab.
-<br>
-
-- *04/2023*: Our work [Climate model-driven seasonal forecasting approach with deep learning](https://www.cambridge.org/core/journals/environmental-data-science/article/climate-modeldriven-seasonal-forecasting-approach-with-deep-learning/3046D1C9903ABF0AB49DCEA473DB5E32) is accepted to Environmental Data Sciences 2023!  
+- *02/2024*: Our paper [Protodiffusion: Classifier-free diffusion guidance with prototype learning](https://proceedings.mlr.press/v222/baykal24a/baykal24a.pdf) is accepted ACML!  
 <br>  
